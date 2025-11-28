@@ -171,9 +171,9 @@ This project is provided for **educational and personal use only**. Users are re
 
 ## 🔗 Quick Links
 
-- **[Download Script](https://raw.githubusercontent.com/mohdumarbutt/Instagram-followers-fetcher/main/main.py)** - Direct script download
+- **[Download Script](https://raw.githubusercontent.com/mohdumarbutt/Instagram-followers-fetcher/main/followers-exporter.js)** - Direct script download
 - **[Report Issues](https://github.com/mohdumarbutt/Instagram-followers-fetcher/issues)** - Bug reports & feature requests
-- **[View Source](https://github.com/mohdumarbutt/Instagram-followers-fetcher/blob/main/main.py)** - Complete source code
+- **[View Source](https://github.com/mohdumarbutt/Instagram-followers-fetcher/blob/main/followers-exporter.js)** - Complete source code
 - **[Developer Portfolio](https://github.com/mohdumarbutt)** - More projects by Umar Butt
 
 ---
