@@ -1,7 +1,7 @@
-// Complete Instagram Follower Data Fetcher
+// Complete Instagram Follower Data Fetcher Developed by Mohd Umar Butt (Umar Butt) a young Software Developer from Jammu and Kashmir.
 // Run this in browser console while logged into Instagram
 
-const username = "theumar_butt"; // Your Instagram username
+const username = "username"; // Your Instagram username
 
 (async () => {
   try {
