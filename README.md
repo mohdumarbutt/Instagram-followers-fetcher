@@ -165,15 +165,15 @@ This project is provided for **educational and personal use only**. Users are re
 
 ## 🌟 GitHub Repository Stats
 
-![GitHub stars](https://img.shields.io/github/stars/mohdumarbutt/instagram-follower-exporter?style=social)
-![GitHub forks](https://img.shields.io/github/forks/mohdumarbutt/instagram-follower-exporter?style=social)
-![GitHub issues](https://img.shields.io/github/issues/mohdumarbutt/instagram-follower-exporter)
+![GitHub stars](https://img.shields.io/github/stars/mohdumarbutt/Instagram-followers-fetcher?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mohdumarbutt/Instagram-followers-fetcher?style=social)
+![GitHub issues](https://img.shields.io/github/issues/mohdumarbutt/Instagram-followers-fetcher)
 
 ## 🔗 Quick Links
 
-- **[Download Script](https://github.com/mohdumarbutt/instagram-follower-exporter/raw/main/instagram-follower-exporter.js)** - Direct script download
-- **[Report Issues](https://github.com/mohdumarbutt/instagram-follower-exporter/issues)** - Bug reports & feature requests
-- **[View Source](https://github.com/mohdumarbutt/instagram-follower-exporter)** - Complete source code
+- **[Download Script](https://github.com/mohdumarbutt/Instagram-followers-fetcher/raw/main/Instagram-followers-fetcher.js)** - Direct script download
+- **[Report Issues](https://github.com/mohdumarbutt/Instagram-followers-fetcher/issues)** - Bug reports & feature requests
+- **[View Source](https://github.com/mohdumarbutt/Instagram-followers-fetcher)** - Complete source code
 - **[Developer Portfolio](https://github.com/mohdumarbutt)** - More projects by Umar Butt
 
 ---
